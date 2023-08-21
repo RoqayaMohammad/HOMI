@@ -1,6 +1,7 @@
 # HOMI - ecommerce Web App
 
 ◾ Back-end:
+>
 🔹 ASP .NET Core Web API
 
 🔹 ASP .NET Core Web API Three-Tier Architecture
@@ -17,6 +18,7 @@
 
 
 ◾ Front-end:
+>
 🔹 Angular 16
 
 🔹 Modules, Services
