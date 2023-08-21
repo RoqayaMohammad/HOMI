@@ -9,7 +9,7 @@
 
 🔹 Asp .NET Core Identity and JWT refresh Token for Authentication
 
-🔹 Asp .NET Core Signal R / AutoMapper 
+🔹 Asp .NET Core  AutoMapper 
 
 🔹 Accepting payments using Stripe
 
@@ -21,7 +21,7 @@
 
 🔹 Modules, Services
 
-🔹 Auth Guard / Lazy Loading
+🔹 Auth Guard 
 
 🔹 Bootstrap 5
 
